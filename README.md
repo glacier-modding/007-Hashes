@@ -48,4 +48,4 @@ Requires a `new_hashes.txt` file in the repository's root directory which contai
 Possible games are: `FirstLight`.
 
 ### extract_hashes.py
-Extracts a list of hashes from RPKG files into a text file. This is for use with the `add_new_hashes.py` script. Example: `python .\scripts\extract_hashes.py --input C:\Epic\HITMAN3\Runtime --game h3`.
+Extracts a list of hashes from RPKG files into a text file. This is for use with the `add_new_hashes.py` script. Example: `python .\scripts\extract_hashes.py --input C:\Epic\HITMAN3\Runtime --game FirstLight`.
